@@ -1,5 +1,4 @@
 from flask import Blueprint, jsonify, request
-import uuid
 # Models
 from models.EstudiantesModel import EstudiantesModel
 # Entities
